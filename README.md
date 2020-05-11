@@ -16,6 +16,6 @@ Look at the demonstrator below to get an idea of the app.
 5. Calculate results
 
 
-![Gif of the BMI-App](./gif_ReadME.gif)
+![Gif of the BMI-App](./gif_README.gif)
 
 
